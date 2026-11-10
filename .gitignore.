@@ -1,0 +1,8 @@
+target/
+relatorios/
+tools/saida/
+.env
+.idea/
+*.iml
+.vscode/
+*.class
