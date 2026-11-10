@@ -4,9 +4,9 @@ Trabalho semestral da disciplina de **Teste de Software**.
 Objeto de teste: site oficial do **XIV Salão de Iniciação Científica, Pesquisa e Extensão (SIPE) da FADERGS**
 https://eventosanima.com.br/fadergs/sipe/
 
-- **Integrantes:** _(preencher)_
-- **Professor(a):** _(preencher)_
-- **Disciplina / Semestre:** _(preencher)_
+- **Integrantes:** Gabriel Cardoso Possamai, Breno Paiva Pinter, Arthur Marques Sartori 
+- **Professor(a):** Adalto Selau Sparremberger, Andre Flavio Treib 
+- **Disciplina / Semestre:** 4° semestre
 
 **Modalidade de submissão do grupo:** Resumo simples (350 a 500 palavras, até 5 palavras-chave, .docx).
 
